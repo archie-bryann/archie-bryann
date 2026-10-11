@@ -42,12 +42,6 @@ Full stack engineer with 5 years shipping fintech, payments, and AI products end
 
 ---
 
-## GitHub Stats
-
-![Ekomobong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=archie-bryann&show_icons=true&theme=default)
-
----
-
 ## Let's Connect
 
 Open to remote full time roles. Reach me at **ekomobongarchibong24@gmail.com** or through my [portfolio](https://ekomobong-ashen.vercel.app).
