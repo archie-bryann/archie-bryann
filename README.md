@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-ekomobongarchibong24@gmail.com-blue)](mailto:ekomobongarchibong24@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://ekomobong-ashen.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ekomobong-archibong-08ba4b255/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ekomobong-archibong-10258a324/)
 
 ---
 
