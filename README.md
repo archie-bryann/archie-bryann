@@ -36,7 +36,7 @@ Full stack engineer with 5 years shipping fintech, payments, and AI products end
 |---|---|---|
 | [Severus](https://github.com/severus-labs/severus) | Local first encrypted vault with TOTP auth and dual key sharing | Python, Go |
 | [Nile](https://github.com/archie-bryann/nile) | E commerce REST API with token auth and background jobs | Rails, RSpec, Kamal |
-| [Docker Swarm Cluster](https://github.com/archie-bryann/docker-swarm-traefik) | 3 node Swarm on EC2 with rolling updates and rollbacks | Docker, Traefik, AWS |
+| [Docker Swarm Cluster](https://github.com/archie-bryann/docker-swarm) | 3 node Swarm on EC2 with rolling updates and rollbacks | Docker, Traefik, AWS |
 | [Deep Learning from Scratch](https://github.com/archie-bryann/pytorch-neural-network) | CNNs, GANs, Transformers, and YOLO built from scratch | Python, PyTorch |
 | [Arduino Embedded Systems](https://github.com/archie-bryann/arduino) | 40 hardware builds with sensors and motor control | C++, Arduino |
 
