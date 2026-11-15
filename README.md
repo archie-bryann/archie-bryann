@@ -34,7 +34,7 @@ Full stack engineer with 5 years shipping fintech, payments, and AI products end
 
 | Project | Description | Stack |
 |---|---|---|
-| [LoveSet](https://github.com/LoveSet/loveset-client) ([Server](https://github.com/LoveSet/loveset-server)) | Swipe-driven movie discovery engine ("Tinder for movies") with real-time personalized recommendations and Redis queues | React, Express.js, MongoDB, Redis, OpenAI API |
+| [LoveSet Client](https://github.com/LoveSet/loveset-client) / [Server](https://github.com/LoveSet/loveset-server) | Swipe-driven movie discovery engine ("Tinder for movies") that learns taste in real time, generating personalized recommendations via OpenAI search APIs with Redis-backed job queues | React, Express.js, MongoDB, Redis, OpenAI API |
 | [Severus](https://github.com/severus-labs/severus) | Local first encrypted vault with TOTP auth and dual key sharing | Python, Go |
 | [Nile](https://github.com/archie-bryann/nile) | E commerce REST API with token auth and background jobs | Rails, RSpec, Kamal |
 | [Docker Swarm Cluster](https://github.com/archie-bryann/docker-swarm) | 3 node Swarm on EC2 with rolling updates and rollbacks | Docker, Traefik, AWS |
